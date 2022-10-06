@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">S6Q2</string>
+    <string-array name="array_technology">
+        <item>Android</item>
+        <item>Java</item>
+        <item>C</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>.NET</item>
+        <item>Ajax</item>
+    </string-array>
+
+</resources>
